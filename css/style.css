@@ -1,0 +1,22 @@
+hr{
+    background-color: white;
+    border-style: dotted none none;
+    width: 2.75%;
+    border-width: 5px;
+    border-color: gray;
+}
+table{
+    border-spacing: 20px;
+}
+img{
+    height: 160px;
+}
+body{
+    background-color: #EAF6F6;
+}
+h1{
+    color: #66bfbf;
+}
+h3{
+    color: #66bfbf;
+}
